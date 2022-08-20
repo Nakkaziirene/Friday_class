@@ -47,4 +47,5 @@ print(d)
 # else:
 #     print("You are not allowed to vote")
 
+User = int(input("Wandiika erinnya lyo: "))
 
